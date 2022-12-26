@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7ab025d-2519-48f5-999e-a1ed7e698256" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/main/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main/app.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal/user/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/user/handler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/all.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/logging/logging.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/logging/logging.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +72,7 @@
       <package value="rest-api/cmd/main" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/cmd/main/app.go" />
+      <output_directory value="$PROJECT_DIR$/build" />
       <method v="2" />
     </configuration>
     <configuration name="All in test-api" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/test-api.http">
@@ -80,6 +84,12 @@
     <configuration name="test-api | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test-api.http" index="2" requestIdentifier="#2" runType="Run single request">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Go Build.go build rest-api/cmd/main" />
+      <item itemvalue="HTTP Request.All in test-api" />
+      <item itemvalue="HTTP Request.test-api | #1" />
+      <item itemvalue="HTTP Request.test-api | #2" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build rest-api/cmd/main" />
