@@ -7,6 +7,9 @@
     <list default="true" id="a7ab025d-2519-48f5-999e-a1ed7e698256" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/main/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/user/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/user/handler.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="HTTP Request" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
@@ -58,7 +61,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Костя&quot;
   }
 }</component>
-  <component name="RunManager" selected="HTTP Request.All in test-api">
+  <component name="RunManager" selected="Go Build.go build rest-api/cmd/main">
     <configuration name="go build rest-api/cmd/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Rest-api" />
       <working_directory value="$PROJECT_DIR$" />
@@ -79,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.All in test-api" />
         <item itemvalue="Go Build.go build rest-api/cmd/main" />
+        <item itemvalue="HTTP Request.All in test-api" />
         <item itemvalue="HTTP Request.test-api | #1" />
         <item itemvalue="HTTP Request.test-api | #2" />
       </list>
