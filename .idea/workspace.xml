@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a7ab025d-2519-48f5-999e-a1ed7e698256" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/user/db/mongodb.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/user/db/mongodb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/main/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main/app.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/all.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
