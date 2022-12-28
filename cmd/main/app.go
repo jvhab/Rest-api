@@ -38,7 +38,6 @@ func main() {
 		Username:     "the",
 		PasswordHash: "12345",
 	}
-
 	user1Id, err := storage.Create(context.Background(), user1)
 	if err != nil {
 		panic(err)
