@@ -7,9 +7,8 @@
     <list default="true" id="a7ab025d-2519-48f5-999e-a1ed7e698256" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/main/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main/app.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internal/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/config/config.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/all.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/user/db/mongodb.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/user/db/mongodb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/user/handler.go" beforeDir="false" afterPath="$PROJECT_DIR$/internal/user/handler.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,14 @@
   }
 }</component>
   <component name="RunManager" selected="Go Build.go build rest-api/cmd/main">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Rest-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build rest-api/cmd/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Rest-api" />
       <working_directory value="$PROJECT_DIR$" />
@@ -70,6 +77,15 @@
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/cmd/main/app.go" />
       <output_directory value="$PROJECT_DIR$/build" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="Rest-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <method v="2" />
     </configuration>
     <configuration name="All in test-api" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/test-api.http">
